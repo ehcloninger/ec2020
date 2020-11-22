@@ -27,7 +27,7 @@ destination: ../_site
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-so-simple
+theme: jekyll-theme-yat
 
 plugins:
   - jekyll-feed
