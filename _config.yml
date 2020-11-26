@@ -12,7 +12,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ericcloninger.com.s3.amazonaws.com" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "favicon.png" # the favicon for your site
+favicon: "https://s3.us-east-2.amazonaws.com/ericcloninger.com/favicon.png" # the favicon for your site
 destination: ../_site
 
 theme: jekyll-theme-yat
