@@ -6,8 +6,8 @@ categories: blog
 tags: [mgb,ysabeau]
 ---
 
-It's 2020 and everything sucks. Beau didn't get to attend her Junior Prom because of COVID. But, that didn't
-stop us from getting some photos anyway. 
+It's 2020 and everything sucks. Ysabeau (aka Beau) didn't get to attend her Junior Prom because of COVID. But,
+that didn't stop us from getting some photos anyway. 
 
 {% include image-gallery.html folder="/assets/images/blog/2020-04-19" %}
 

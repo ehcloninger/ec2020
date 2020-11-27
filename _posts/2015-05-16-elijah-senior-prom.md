@@ -17,9 +17,8 @@ We used old-fashioned rubbing compound and fine steel wool to get rid of all the
 we washed and waxed her. I masked off the tires and spray painted the rims white. It wasn't bad for a
 weekend job.
 
-Here are some shots of Elijah and his sister with the car as he was about to head out that night.
-
 {% include image-gallery.html folder="/assets/images/blog/2015-05-16" %}
 
 I'll spare the details, but let's say that the MGB came home with a little less paint than it left with.
-Subsequent photos show a bit of damage over the front passenger fender.
+Subsequent photos show a bit of damage over the front passenger fender. I didn't get mad as accidents do
+happen. It's part of the story of the car now.
