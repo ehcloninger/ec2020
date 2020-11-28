@@ -23,7 +23,7 @@ vac to remove the remaining water and let her dry in the warm autumn sunlight.
 
 Then, the elbow grease. I used a wire wheel on my drill to take off all the surface rust that I could. I followed up with repeated rinsing from the power washer. After 4 hours, she was noticeably cleaner.
 
-That last photo is my girlfriends' daughter and grandson. He's loves cars, trucks, and tractors.
+That photo with the little boy is my girlfriends' daughter and grandson. He's loves cars, trucks, and tractors.
 
 A few days later, I lifted her up and cleaned the insides of the wheel wells. I pretty much followed the same process as the interior. Soap, Simple Green, wire wheel, more power washing. Then, I applied Rustoleum black primer paint. I hope whatever future owners care for her don't hate me for that.
 

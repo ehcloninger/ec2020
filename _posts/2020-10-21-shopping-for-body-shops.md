@@ -41,4 +41,4 @@ passenger seat in black and the drivers seat in white, just so I won't mis-match
 
 Somewhere in those dozen boxes with Moss Motors on the side will be the new foam and seat covers.
 
-{% include gallery-layout.html gallery=site.data.galleries.2020-10-24 %}
+{% include gallery-layout.html gallery=site.data.galleries.2020-10-21 %}
