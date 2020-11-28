@@ -4,6 +4,7 @@ title: "Prepping to Paint"
 subtitle: ""
 categories: blog
 tags: [mgb,restoration]
+support: [jquery, gallery]
 ---
 
 Now that I found a body shop, I worked to remove the parts that shouldn't be there. The excess trim
@@ -14,7 +15,7 @@ in some auto forums, and it appears this was the original owner of the car from 
 plates were used in the service department with a machine similar to an old-fashioned credit card
 device. The owners log book would be stamped to show when work was done.
 
-{% include image-gallery.html folder="/assets/images/blog/2020-11-01" %}
+{% include gallery-layout.html gallery=site.data.galleries.2020-11-01 %}
 
 My sisters' father-in-law bought it around 1978. I thought the car was originally purchased in Florida, 
 but apparently I was wrong. Telephone, TX, stamped on the plate, is about 2 hours drive northeast of Dallas. 
@@ -27,7 +28,7 @@ It appears to be a few houses, a post office, a couple churches, and not much el
 Here she is, the last afternoon together, as I've removed the last bits of trim. I realized the next day
 that I should've removed the riveted parts as well. The body shop owner said he was happy to do that.
 
-{% include image-gallery.html folder="/assets/images/blog/2020-11-15" %}
-
 That last shot was in front of the body shop. I felt sad. We never took our kids to day-care, but I can
 imagine that's the feeling I might've had.
+
+{% include gallery-layout.html gallery=site.data.galleries.2020-11-15 %}

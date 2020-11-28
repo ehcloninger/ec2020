@@ -4,6 +4,7 @@ title: "Shopping for Body Shops"
 subtitle: ""
 categories: blog
 tags: [mgb,restoration]
+support: [jquery, gallery]
 ---
 
 I took Pearline to a couple of body shops in the area. A couple flat refused to even consider the job because
@@ -28,8 +29,6 @@ $5,000 to remove the dents, fill in where needed, and to put on a clear coat. Th
 at least a month of work in the shop, so I'd have to wait. "That's fine", I told him, I'll use the time to
 continue cleaning her up and work on the upholstery.
 
-{% include image-gallery.html folder="/assets/images/blog/2020-10-24" %}
-
 Now that I had the rust removed from the interior, I applied some white Rustoleum primer to the interior 
 areas. I also used the wire wheel on the battery cover and painted it flat black. I put plastic liners
 in the battery wells (she's a converted dual 6v system, so she used to have 2 batteries).
@@ -41,3 +40,5 @@ Halloween afternoon grinding away rust and then putting a coat of Rustoleum on t
 passenger seat in black and the drivers seat in white, just so I won't mis-match the parts.
 
 Somewhere in those dozen boxes with Moss Motors on the side will be the new foam and seat covers.
+
+{% include gallery-layout.html gallery=site.data.galleries.2020-10-24 %}
