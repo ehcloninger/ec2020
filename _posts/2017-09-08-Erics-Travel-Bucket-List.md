@@ -1,13 +1,15 @@
 ---
 layout: post
 category : blog
-tags : [travel]
+tags : [2017,travel]
 title: Eric's Travel Bucket List
 
 ---
 
 These are some of the places I want to visit, but this by no means an exhaustive list. If I were offered a
 trip to Paris or London, cities I've visited several times, I'd be ready to go in a matter of minutes.
+
+<!--more-->
 
 |:     **North America**     :||
 | Idaho, Montana, Alaska, Hawai'i, Wisconsin, Delaware, South Carolina | These are the states that I haven't visited at some point in my life. My mother tells me I was in Alaska as a 2 year-old. We were on a military transport airplane, awaiting departure to the Phillipines, where Dad was stationed. If I don't remember it, I'm not counting it.<br/>A few years ago, a group of older guys set out from Hydro on their motorcycles for Alaska. They were gone a month and came back with some fun stories. I don't think I can make it to Honolulu on my motorcycle though. |

@@ -3,13 +3,15 @@ layout: post
 title: "At the LBC Specialist"
 subtitle: ""
 categories: blog
-tags: [mgb,restoration]
+tags: [2020,mgb,restoration]
 support: [jquery, gallery]
 ---
 
 I dropped Pearline off at Glass Auto in OKC on in the middle of August. Two weeks later, I had a doctor
 appointment nearby, so I stopped by to get Mike's estimate. I'm not going to lie, I was really apprehensive
 walking in the door because I didn't know what I was going to hear.
+
+<!--more-->
 
 The first prognosis was there are a bunch of small things wrong--none of them fatal. She just needed parts and
 time to fix the things that were wrong. He said it was apparent that a lot of different shade-tree mechanics

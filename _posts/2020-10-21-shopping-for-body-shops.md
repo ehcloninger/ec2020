@@ -3,13 +3,15 @@ layout: post
 title: "Shopping for Body Shops"
 subtitle: ""
 categories: blog
-tags: [mgb,restoration]
+tags: [2020,mgb,restoration]
 support: [jquery, gallery]
 ---
 
 I took Pearline to a couple of body shops in the area. A couple flat refused to even consider the job because
 they only do insurance work. One of these people said my car isn't in her software, so she would have no idea
 how to price it. I thought that was strange, but I didn't argue.
+
+<!--more-->
 
 One of the body shops, which I've used in the past, spent 30 minutes going over her in great detail. He got
 on his knees and inspected every inch, top and bottom. Then he said "you're not going to like this". I told

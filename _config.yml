@@ -87,12 +87,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
+header_pages:
+  - archives.html
 #   - categories.html
-#   - tags.html
-#   - about.md
+  - tags.html
+  - about.md
+  - index.html
 
 # Page default value
 # defaults:
@@ -102,7 +102,8 @@ yat:
 #     banner: "Your image url"
 
 # Pagination setting
-# paginate: 5
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Disqus comments
 # disqus:
@@ -128,16 +129,17 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
-
+  - jemoji
+  
 # Where things are
 jekyll-spaceship:
   # default enabled processors
   processors:
-    - table-processor
-    - mathjax-processor
-    - plantuml-processor
-    - mermaid-processor
-    - polyfill-processor
+#    - table-processor
+#    - mathjax-processor
+#    - plantuml-processor
+#    - mermaid-processor
+#    - polyfill-processor
     - media-processor
     - emoji-processor
     - element-processor

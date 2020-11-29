@@ -417,7 +417,7 @@ html {
       }
     }
 
-    img, svg, iframe {
+    img:not(.emoji), svg, iframe {
       margin-left: auto;
       margin-right: auto;
       display: block;

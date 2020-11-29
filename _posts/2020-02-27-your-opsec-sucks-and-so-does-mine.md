@@ -1,12 +1,14 @@
 ---
 layout: post
 category : blog
-tags : [work, travel]
+tags : [2020,work, travel]
 title: "Your Op-Sec Sucks (and so does mine)"
 ---
 A couple weeks back, I was on a flight leaving San Jose on a Friday morning.
 The flight left before dawn, filled to the brim with business travelers wanting
 to escape the Bay Area before a 3-day weekend.
+
+<!--more-->
 
 I had my typical seat on an aisle in the second row of economy. My employer
 doesn't let lowly managers book business class or first class, so I'm stuck in

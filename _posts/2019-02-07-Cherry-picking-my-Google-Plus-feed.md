@@ -1,7 +1,7 @@
 ---
 layout: post
 category : blog
-tags : [social]
+tags : [2019,social]
 title: Cherry picking my Google Plus feed
 
 ---

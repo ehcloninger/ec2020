@@ -3,12 +3,14 @@ layout: post
 title: "Ysabeau's Junior Prom"
 subtitle: ""
 categories: blog
-tags: [mgb,ysabeau]
+tags: [2020,mgb,ysabeau]
 support: [jquery, gallery]
 ---
 
 It's 2020 and everything sucks. Ysabeau (aka Beau) didn't get to attend her Junior Prom because of COVID. But,
 that didn't stop us from getting some photos anyway. 
+
+<!--more-->
 
 This photo is the MGB after the photo shoot. About 2 miles (3 km) from home, the car started sputtering as
 I downshifted coming to the 4-way stop south of our home town. The engine died and I was stuck there. It was
