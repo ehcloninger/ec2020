@@ -37,7 +37,7 @@ works by Eric H. Cloninger unless otherwise credited. All rights are reserved.
 
 ## Credits
 
-* This site is powered by [Jekyll](http://jekyllrb.com/).
+* This site is powered by [Jekyll](https://jekyllrb.com/).
 * The site design is based on [Yat, yet another theme](https://github.com/jeffreytse/jekyll-theme-yat), by [Jeffrey Tse](https://github.com/jeffreytse).
 * Image gallery is from [jekyll-image-gallery-example](https://opieters.github.io/jekyll-image-gallery-example) by Olivier Pieters
 * Icons on this site are provided by [Font Awesome](https://fontawesome.com/).
