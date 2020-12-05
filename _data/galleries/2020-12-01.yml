@@ -1,36 +1,38 @@
 picture_path: 2020-12-01
-preview:
-  filename: 20201201_134555.jpg 
-  original: 20201201_134555.jpg 
-  thumbnail: 20201201_134555.thumbnail.jpg 
-pictures:
+preview: 
+filename: 
+original: 
+thumbnail: 
+title: 
+caption: 
+pictures: 
 - filename: 20201201_134555.jpg
   original: 20201201_134555.jpg
-  thumbnail: 20201201_134555.thumbnail.jpg
+  thumbnail: thumbnails/20201201_134555.jpg
+  title: Front shot. 
+  caption: Headlights, grill, and bumper removed 
+- filename: 20201201_134614.jpg
+  original: 20201201_134614.jpg
+  thumbnail: thumbnails/20201201_134614.jpg
   title: 
   caption: 
 - filename: 20201201_134622.jpg
   original: 20201201_134622.jpg
-  thumbnail: 20201201_134622.thumbnail.jpg
-  title: 
-  caption: 
-- filename: 20201201_134638.jpg
-  original: 20201201_134638.jpg
-  thumbnail: 20201201_134638.thumbnail.jpg
-  title: 
-  caption: 
-- filename: 20201201_134614.jpg
-  original: 20201201_134614.jpg
-  thumbnail: 20201201_134614.thumbnail.jpg
+  thumbnail: thumbnails/20201201_134622.jpg
   title: 
   caption: 
 - filename: 20201201_134628.jpg
   original: 20201201_134628.jpg
-  thumbnail: 20201201_134628.thumbnail.jpg
+  thumbnail: thumbnails/20201201_134628.jpg
+  title: 
+  caption: 
+- filename: 20201201_134638.jpg
+  original: 20201201_134638.jpg
+  thumbnail: thumbnails/20201201_134638.jpg
   title: 
   caption: 
 - filename: 20201201_134757.jpg
   original: 20201201_134757.jpg
-  thumbnail: 20201201_134757.thumbnail.jpg
+  thumbnail: thumbnails/20201201_134757.jpg
   title: 
   caption: 

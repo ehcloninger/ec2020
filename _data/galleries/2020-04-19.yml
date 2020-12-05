@@ -1,11 +1,13 @@
 picture_path: 2020-04-19
-preview:
-  filename: IMGP2443.jpg
-  original: IMGP2443.jpg
-  thumbnail: IMGP2443.thumbnail.jpg
-pictures:
+preview: 
+filename: 
+original: 
+thumbnail: 
+title: 
+caption: 
+pictures: 
 - filename: IMGP2443.jpg
   original: IMGP2443.jpg
-  thumbnail: IMGP2443.thumbnail.jpg
-  title: Hood up
-  caption: After prom pics, ended up with the carbs flooded
+  thumbnail: thumbnails/IMGP2443.jpg
+  title: 
+  caption: 

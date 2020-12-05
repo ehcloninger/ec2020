@@ -1,25 +1,33 @@
 picture_path: 2015-05-16
-preview:
-  filename: IMGP2352.jpg
-  original: IMGP2352.jpg
-  thumbnail: IMGP2352.thumbnail.jpg
-  title: Elijah's Senior Prom
-  caption: Getting the MGB all spiffed up
-pictures:
+preview: 
+filename: 
+original: 
+thumbnail: 
+title: 
+caption: 
+pictures: 
 - filename: DSC02897.jpg
   original: DSC02897.jpg
-  thumbnail: DSC02897.thumbnail.jpg
-  title: Eric and Elijah
-  caption: Taking the MGB out for a spin
+  thumbnail: thumbnails/DSC02897.jpg
+  title: 
+  caption: 
 - filename: IMGP2352.jpg
   original: IMGP2352.jpg
-  thumbnail: IMGP2352.thumbnail.jpg
+  thumbnail: thumbnails/IMGP2352.jpg
+  title: 
+  caption: 
 - filename: IMGP2365.jpg
-  original: IMGP2352.jpg
-  thumbnail: IMGP2365.thumbnail.jpg
+  original: IMGP2365.jpg
+  thumbnail: thumbnails/IMGP2365.jpg
+  title: 
+  caption: 
 - filename: IMGP2366.jpg
-  original: IMGP2352.jpg
-  thumbnail: IMGP2366.thumbnail.jpg
+  original: IMGP2366.jpg
+  thumbnail: thumbnails/IMGP2366.jpg
+  title: 
+  caption: 
 - filename: IMGP2388.jpg
-  original: IMGP2352.jpg
-  thumbnail: IMGP2388.thumbnail.jpg
+  original: IMGP2388.jpg
+  thumbnail: thumbnails/IMGP2388.jpg
+  title: 
+  caption: 

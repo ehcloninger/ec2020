@@ -8,9 +8,10 @@ title: EricCloninger.com
 description: Mostly nonsensical yammerings from someone who should know better.
 
 baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://staging.ericcloninger.com" # the base hostname & protocol for your site, e.g. http://example.com
 url: "https://ericcloninger.com" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "https://ericcloninger.com/favicon.png" # the favicon for your site
-destination: ../_site
+destination: ../_site-prd
 author: Eric H. Cloninger
 copyright: Copyright 2020-2021
 theme: jekyll-theme-yat

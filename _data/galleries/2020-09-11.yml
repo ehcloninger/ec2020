@@ -1,51 +1,53 @@
 picture_path: 2020-09-11
-preview:
-  filename: 20200911_132330.jpg
-  original: 20200911_132330.jpg
-  thumbnail: 20200911_132330.thumbnail.jpg
-pictures:
+preview: 
+filename: 
+original: 
+thumbnail: 
+title: 
+caption: 
+pictures: 
 - filename: 20200911_132312.jpg
   original: 20200911_132312.jpg
-  thumbnail: 20200911_132312.thumbnail.jpg
+  thumbnail: thumbnails/20200911_132312.jpg
   title: 
   caption: 
 - filename: 20200911_132320.jpg
   original: 20200911_132320.jpg
-  thumbnail: 20200911_132320.thumbnail.jpg
+  thumbnail: thumbnails/20200911_132320.jpg
   title: 
   caption: 
 - filename: 20200911_132330.jpg
   original: 20200911_132330.jpg
-  thumbnail: 20200911_132330.thumbnail.jpg
+  thumbnail: thumbnails/20200911_132330.jpg
   title: 
   caption: 
 - filename: 20200914_135526.jpg
   original: 20200914_135526.jpg
-  thumbnail: 20200914_135526.thumbnail.jpg
+  thumbnail: thumbnails/20200914_135526.jpg
   title: 
   caption: 
 - filename: 20200915_114938.jpg
   original: 20200915_114938.jpg
-  thumbnail: 20200915_114938.thumbnail.jpg
+  thumbnail: thumbnails/20200915_114938.jpg
   title: 
   caption: 
 - filename: 20200923_085243.jpg
   original: 20200923_085243.jpg
-  thumbnail: 20200923_085243.thumbnail.jpg
+  thumbnail: thumbnails/20200923_085243.jpg
   title: 
   caption: 
 - filename: 20200923_085250.jpg
   original: 20200923_085250.jpg
-  thumbnail: 20200923_085250.thumbnail.jpg
+  thumbnail: thumbnails/20200923_085250.jpg
   title: 
   caption: 
 - filename: 20200923_085618.jpg
   original: 20200923_085618.jpg
-  thumbnail: 20200923_085618.thumbnail.jpg
+  thumbnail: thumbnails/20200923_085618.jpg
   title: 
   caption: 
 - filename: 20201001_101137.jpg
   original: 20201001_101137.jpg
-  thumbnail: 20201001_101137.thumbnail.jpg
+  thumbnail: thumbnails/20201001_101137.jpg
   title: 
   caption: 

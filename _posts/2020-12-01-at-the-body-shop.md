@@ -19,9 +19,3 @@ up this way if I need to.
 
 {% include gallery-layout.html gallery=site.data.galleries.2020-12-01 %}
 
-Prior articles in this project...
-
-* [Prepping to Paint](/blog/2020/11/16/prepping-to-paint.html)
-* [Shopping for Body Shops](/blog/2020/10/21/shopping-for-body-shops.html)
-* [MGB Back Home](/blog/2020/10/04/mgb-back-home.html)
-* [At the LBC Specialist](/blog/2020/09/11/mgb-at-the-shop.html)
