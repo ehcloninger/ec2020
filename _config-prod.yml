@@ -128,7 +128,7 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jemoji
-  
+
 # Where things are
 jekyll-spaceship:
   # default enabled processors

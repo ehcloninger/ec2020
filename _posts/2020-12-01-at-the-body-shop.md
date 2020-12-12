@@ -5,6 +5,7 @@ subtitle: ""
 categories: blog
 tags: [2020,mgb,restoration]
 support: [jquery, gallery]
+image: /assets/images/photography/2020-12-01/20201201_134638.jpg
 ---
 
 I stopped in at the body shop after 2 weeks to see the progress.

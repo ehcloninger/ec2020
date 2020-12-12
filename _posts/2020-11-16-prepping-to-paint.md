@@ -5,6 +5,7 @@ subtitle: ""
 categories: blog
 tags: [2020,mgb,restoration]
 support: [jquery, gallery]
+image: /assets/images/photography/2020-11-16/20201115_163554.jpg
 ---
 
 Now that I've [found a body shop](/blog/2020/10/21/shopping-for-body-shops.html), I worked to remove the 

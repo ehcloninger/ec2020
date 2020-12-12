@@ -5,6 +5,7 @@ subtitle: ""
 categories: blog
 tags: [2020,mgb,restoration]
 support: [jquery, gallery]
+image: /assets/images/photography/2020-09-11/20200911_132312.jpg
 ---
 
 I dropped Pearline off at Glass Auto in OKC on in the middle of August. Two weeks later, I had a doctor

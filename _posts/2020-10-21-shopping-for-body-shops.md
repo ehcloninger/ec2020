@@ -5,6 +5,7 @@ subtitle: ""
 categories: blog
 tags: [2020,mgb,restoration]
 support: [jquery, gallery]
+image: /assets/images/photography/2020-10-21/20201024_172618.jpg
 ---
 
 I took Pearline to a couple of body shops in the area. A couple flat refused to even consider the job because

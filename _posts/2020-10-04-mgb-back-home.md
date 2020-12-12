@@ -5,6 +5,7 @@ subtitle: ""
 categories: blog
 tags: [2020,mgb,restoration]
 support: [jquery, gallery]
+image: /assets/images/photography/2020-10-04/20201003_161506.jpg
 ---
 
 I got Pearline back from Mike at Glass Auto on a Saturday in early October. It was a cloudy, cool day, so 
