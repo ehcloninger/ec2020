@@ -16,6 +16,10 @@ author: Eric H. Cloninger
 copyright: Copyright 2020-2021
 theme: jekyll-theme-yat
 
+exclude:
+  - .htpasswd
+  - amplify.yml
+
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
