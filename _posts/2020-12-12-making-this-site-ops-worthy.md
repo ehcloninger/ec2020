@@ -85,6 +85,13 @@ create the content and push the changes to github or my staging site.
 In case you're curious, it costs roughly $35/year to keep this site going on AWS. $12 of that
 is the cost of the domain name renewal.
 
+---
+**12/14/2020 Update**: There's a slight bug in the AWS Amplify deploy process. While it worked the
+first time, subsequent posts are throwing an error. I've gone back to hosting in S3 until the
+issue is resolved, but it's nothing anyone would notice, most likely.
+
+---
+
 ### Staging Site
 
 In these days of Agile projects and continuous deployment, the idea of having "alpha" and "beta"
