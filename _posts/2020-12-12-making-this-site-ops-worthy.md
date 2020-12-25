@@ -90,6 +90,10 @@ is the cost of the domain name renewal.
 first time, subsequent posts are throwing an error. I've gone back to hosting in S3 until the
 issue is resolved, but it's nothing anyone would notice, most likely.
 
+**12/24/2020 Update**: I've bailed on Amplify for the moment and gone back to building and pushing
+from my local machine. I have a lot of other projects on my plate and a new role at work that isn't
+going to give me spare cycles to track down this issue. Someday...
+
 ---
 
 ### Staging Site
