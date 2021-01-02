@@ -130,7 +130,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-theme-yat
   jemoji
-  tzinfo (~> 1.2)
+  tzinfo (~> 2.0.4)
   tzinfo-data
   wdm (~> 0.1.1)
 

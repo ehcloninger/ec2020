@@ -15,6 +15,8 @@ destination: ../_site-stg
 author: Eric H. Cloninger
 copyright: Copyright 2020-2021
 theme: jekyll-theme-yat
+siteurl: "https://ericcloninger.com"
+sitedescription: Eric Cloninger
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -90,7 +92,7 @@ header_pages:
   - photos.html
   - archives.html
 #   - categories.html
-  - tags.html
+  - sub-home.html
 #  - index.html
 
 # Page default value
