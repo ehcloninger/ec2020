@@ -19,8 +19,8 @@ owner was in the paint room with the door shut and the vents running, so I could
 But, I'm happy with the results here.
 
 They'll do another primer coat in a week or so after some sanding. Then, they'll apply the paint
-and finally the clear coat. The owner told me he makes no guarantees about dates, but I might get
-her back by the end of the month or maybe mid-February.
+and finally the clear coat. The owner told me at the start that he makes no guarantees about dates, 
+but I'm hoping I might get her back by the end of the month or maybe mid-February.
 
 {% include gallery-layout.html gallery=site.data.galleries.2021-01-08 %}
 
