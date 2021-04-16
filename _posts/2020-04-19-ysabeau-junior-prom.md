@@ -3,7 +3,7 @@ layout: post
 title: "Ysabeau's Junior Prom"
 subtitle: ""
 categories: blog
-tags: [2020,mgb,ysabeau]
+tags: [2020,mgb,ysabeau,restoration]
 support: [jquery, gallery]
 ---
 
